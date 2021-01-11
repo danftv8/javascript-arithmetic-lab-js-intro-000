@@ -1,3 +1,2 @@
-funtion makeInt(2) {
-return parseInt('2', 10)
-}
+var makeInt = parseInt('2', 10)
+return makeInt()
