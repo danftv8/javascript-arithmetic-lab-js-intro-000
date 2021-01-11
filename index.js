@@ -1,3 +1,3 @@
-funtion makeInt(string) {
-return parseInt('string', 10)
+funtion makeInt(2) {
+return parseInt('2', 10)
 }
